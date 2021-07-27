@@ -1,2 +1,2 @@
 # team-flex-demo
-Created a flex box demo for teammates.
+Created a flexbox demo for teammates.
