@@ -1,2 +1,2 @@
 # team-flex-demo
-Created a flexbox demo for teammates.
+Created a static site flexbox demo for FB MLH PE teammates.
